@@ -50,6 +50,12 @@ export const ossFriends: Friends = [
     href: "https://www.hanko.io",
   },
   {
+    name: "Hook0",
+    description:
+      "Open-Source webhook server that makes it easy for developers to send and manage webhooks.",
+    href: "https://www.hook0.com/",
+  },
+  {
     name: "HTMX",
     description:
       "HTMX is a dependency-free JavaScript library that allows you to access AJAX, CSS Transitions, WebSockets, and Server Sent Events directly in HTML.",
